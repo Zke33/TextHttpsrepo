@@ -1,0 +1,1 @@
+生成ssh密钥：ssh-keygon -t rsa
